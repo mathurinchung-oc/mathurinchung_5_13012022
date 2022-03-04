@@ -1,0 +1,3 @@
+[submodule "kanap"]
+	path = kanap
+	url = git@github.com:mathurinchung/kanap.git
